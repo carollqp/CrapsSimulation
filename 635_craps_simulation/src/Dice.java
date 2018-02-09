@@ -6,6 +6,7 @@
  * 
  * @author eric
  *
+ *
  */
 public class Dice
 {
