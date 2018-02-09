@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 // my first git edit...
-// make change
+// make changes
 
 /**
  * Starting application for running multiple simulations of CrapsGame. This
